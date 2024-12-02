@@ -1,5 +1,5 @@
 # My-tiny-research
-I will try to share my research here, especially the challenges and experiences. 
+I will try to share my research here, especially the challenges. 
 
 I hope my mistakes and experiences can help you as much as possible. 😄
 
