@@ -1,8 +1,12 @@
 # My-tiny-research
-My tiny research experience from 2021 until now.
+I will try to share my research here, especially the challenges and experiences. 
 
-The directory of 2021-2022 just includes some course project reports.
+I hope my mistakes and experiences can help you as much as possible. 😄
 
-The others are some research experiences of my master period in SUSTech, including researching ideas and usage of some baseline models.
+**2021-2022-tiny-research-report**: course project reports in SUSTech and program report in NUS.
+
+**RegAug**: Deformation-based data augmentation for one-shot brain MRI segmentation (3D). Published on "中国体视学与图像分析，2023" (cover article).
+
+**BrainEditor**: Structure-disentangled brain MRI synthesis (2D). ISBI 2025 under review.
 
 I will update continuously.
