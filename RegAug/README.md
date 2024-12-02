@@ -25,8 +25,10 @@ This is my first formal research in 2022 and I aim to improve the framework of D
 2. <1% improvement than MPDUD and 3% improvement than DataAug... Too little to be qualified for publication on international conference.
 3. The improvement is so little that I have to change to another story "atlas-based segmentation" for the paper, and ignore the comparisions with DataAug and MPDUD. :pensive:
 
+![RegAug框架图](https://github.com/user-attachments/assets/5dd33881-f96b-448a-a5ef-fc2da5c58ee3)
+
 ## 4 Results 
-![分割结果可视化对比](https://github.com/user-attachments/assets/6c66a0de-e245-43a5-bd32-e37b9efa4ec8)
+![图3](https://github.com/user-attachments/assets/dbc55f94-9616-43fb-bee9-2b4a25b9e3c8)
 
 ## 5 Acknowledgement
 This article aims to share experience and represents only personal opinions. Corrections are welcomed. **The article respects and appreciates all the works mentioned above**.
