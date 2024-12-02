@@ -6,7 +6,7 @@ This is my first formal research in 2022 and I aim to improve the framework of D
 
 ## Experiences
 1. The core of LRLS is: A deformation field can transform an image A to another image B, and the ground truth label of A can also be transformed to generate pseudo lables of B (**"propagate"**). The training of registration network to generate deformation fields is unsupervised so the total need is one ground truth label of atlas. ==> one-shot
-2. In my **own** opinion and experiences, the apperance transform branch in DataAug and MPDUD contributes **little** improvement to the data augmentation, if the downstream segmentation work is robust enough to the contrast noise (like [nnUNet](https://github.com/MIC-DKFZ/nnUNet)).
+2. In my **own** opinion and experiments, the apperance transform branch in DataAug and MPDUD contributes **little** improvement to the data augmentation, if the downstream segmentation work is robust enough to the contrast noise (like [nnUNet](https://github.com/MIC-DKFZ/nnUNet)).
 3. Based on point 2, DO NOT USE advanced segmentation network if you want to show obvious improvement in LRLS :sweat_smile:: In DataAug and MPDUD, they employ a simple 2D UNet.
 4. The deformation fields are easier to learn for networks compared with direct reconstruction in image space.
 5. I trust "deformation" is more suitable for the real pathological change like ventrical enlargement and cortex atrophy. I believe the **potential** of "deformation" in medical image synthesis.
