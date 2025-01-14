@@ -7,6 +7,6 @@ I hope my mistakes and experiences can help you as much as possible. 😄
 
 2. **RegAug**: Deformation-based data augmentation for one-shot brain MRI segmentation (3D). Published on "中国体视学与图像分析，2023" (cover article).
 
-3. **BrainEditor**: Structure-disentangled brain MRI synthesis (2D). ISBI 2025 under review.
+3. **BrainEditor**: Structure-disentangled brain MRI synthesis (2D). ISBI 2025.
 
 I will update continuously.
